@@ -6,7 +6,7 @@ A simple Conway's Game of Life implementation in C
 Simply:
 
 ```
-git clone 'github.com/DarkAdin/GOL'
+git clone 'https://github.com/DarkAdin/GOL.git'
 cd GOL
 make
 ./GOL
