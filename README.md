@@ -23,4 +23,4 @@ Modifiable parameters:
 
 * Reading a predefined grid of life from disk
 
-![](gol.gif)
+![](gol_gif.gif)
